@@ -10,6 +10,8 @@ Think of it as [Svelte](https://svelte.dev/), but dropping the JavaScript depend
 
 ## Development
 
+This repository is a monorepo that contains all the [packages](./packages) that make up Noora. The core of the project is a Rust-powered compiler and a CLI, upon which bindings for different languages and platforms are built. Bindings are key in making integrating Noora with different frameworks and platforms as seamless as possible.
+
 ### Set up
 
 1. Clone the repository: `https://github.com/nooradev/noora.git`
