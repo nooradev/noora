@@ -1,12 +1,12 @@
 # Noora
 
-<img alt="GitHub License" src="https://img.shields.io/github/license/nooradev/noora">
-<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/nooradev/noora">
-<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/nooradev/noora">
-<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/nooradev/noora/total">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/nooradev/noora">
-<img alt="Discord" src="https://img.shields.io/discord/1210935766985867274">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nooradev/noora">
+![GitHub License](https://img.shields.io/github/license/nooradev/noora)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/nooradev/noora)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/nooradev/noora)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/nooradev/noora/total)
+![GitHub language count](https://img.shields.io/github/languages/count/nooradev/noora)
+![Discord](https://img.shields.io/discord/1210935766985867274)
+![GitHub Repo stars](https://img.shields.io/github/stars/nooradev/noora)
 
 Noora is a UI compiler for the web.
 It's platform and language agnostic, and it's designed to be used with any web framework.
