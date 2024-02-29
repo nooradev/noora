@@ -1,3 +1,9 @@
 [tools]
 nodejs = "20.11.1"
 pnpm = "8.15.4"
+
+[tasks.up]
+description = "Sets up the environment to work on any package in the monorepo"
+run = [
+    "pnpm install"
+]
