@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# mise description="Builds the website"
+
+pnpm run -C $MISE_PROJECT_ROOT/packages/website build
