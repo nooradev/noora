@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# mise description="Sets up the environment to work on any package in the monorepo"
+
+pnpm install -C $MISE_PROJECT_ROOT
