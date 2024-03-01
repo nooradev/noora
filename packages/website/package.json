@@ -3,7 +3,8 @@
   "private": true,
   "description": "Noora's statically-generated website powered by VitePress",
   "devDependencies": {
-    "vitepress": "1.0.0-rc.44"
+    "vitepress": "1.0.0-rc.44",
+    "wrangler": "^3.30.1"
   },
   "scripts": {
     "dev": "vitepress dev",
